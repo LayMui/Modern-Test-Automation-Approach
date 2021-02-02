@@ -1,5 +1,5 @@
 <template>
   <div class="text-center">
-    <img class="responsive" contain height=500px width=800px src="../../assets/image/FastFeedback.png"/>
+    <img contain height=auto width=100% src="../../assets/image/FastFeedback.png"/>
   </div>
 </template>
